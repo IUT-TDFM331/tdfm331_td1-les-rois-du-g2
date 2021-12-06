@@ -128,7 +128,6 @@ public class ListApiServiceTest
 		{
 			m = e.getMessage();
 		}
-
 		Assert.assertEquals(m, new MeetingNotFound().getMessage());
 	}
 }
