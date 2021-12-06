@@ -45,7 +45,7 @@ codes couvert/non couverts par les tests.
 - Attention, je dois pouvoir identifier clairement le travail de chaque membre du groupe. Ne laissez pas une seule personne macher tout le boulot. 
 
 ## Contributors
-[Marc](https://github.com/marcpinet) - Marc PINET <br>
-[Loïc](htpps://github.com/loicpantano) - Loïc PANTANO <br>
+[Marc](https://github.com/marcpinet) - Marc PINET<br>
+[Loïc](htpps://github.com/loicpantano) - Loïc PANTANO<br>
 [Marcus](https://github.com/marcusaasjensenunice) - Marcus AAS JENSEN
 
