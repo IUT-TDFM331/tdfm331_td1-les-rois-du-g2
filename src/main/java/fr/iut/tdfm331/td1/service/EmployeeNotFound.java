@@ -1,4 +1,5 @@
 package fr.iut.tdfm331.td1.service;
 
-public class EmployeeNotFound extends Exception {
+public class EmployeeNotFound extends Exception
+{
 }
